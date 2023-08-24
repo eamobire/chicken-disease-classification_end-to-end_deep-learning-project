@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "chicken-disease-classification_end-to-end_deep-learning-project"
-AUTHOR_USER_NAME = "eamobire"
+REPO_NAME = "Chicken-Disease-Classification--Project"
+AUTHOR_USER_NAME = "entbappy"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "agombuy@gmail.com"
+AUTHOR_EMAIL = "entbappy73@gmail.com"
 
 
 setuptools.setup(
